@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aruszh(Om Prakash)
-- 👀 I’m interested in python 
+- 👀 I’m interested in part-time/full-time job/internship 
 - 🌱 I’m currently learning cpp
-- 💞️ I’m looking to collaborate with python, web developer, machine learning, artificial intelligence projects
+- 💞️ I’m looking to collaborate with python, web developer, machine learning, artificial intelligence, cpp projects
 - 📫 Mail: om1504.iimt@outlook.com. Call: +918076603390 
