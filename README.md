@@ -3,3 +3,4 @@
 - 🌱 I’m currently learning cpp
 - 💞️ I’m looking to collaborate with python, web developer, machine learning, artificial intelligence, cpp projects
 - 📫 Mail: om1504.iimt@outlook.com. Call: +918076603390 
+- Linkedin: https://www.linkedin.com/in/indian-omprakash/
