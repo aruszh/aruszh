@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aruszh(Om Prakash)
 - 👀 I’m interested in part-time/full-time job/internship 
-- 🌱 I’m currently learning cpp
+- 🌱 My Technical interest is Python, CPP, DBMS, Linux and Open-Souce Projects. I have worked on each technology as a part of my curriculum achievement or self-interest.
 - 💞️ I’m looking to collaborate with python, web developer, machine learning, artificial intelligence, cpp projects
 - 📫 Mail: om1504.iimt@outlook.com. Call: +918076603390 
 - Linkedin: https://www.linkedin.com/in/indian-omprakash/
